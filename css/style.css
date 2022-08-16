@@ -12,6 +12,7 @@
     letter-spacing: 1rem;
     background-color: #C4C4C4;
     padding: 1rem;
+    text-transform: uppercase;
 }
 
 .header__img {
@@ -27,6 +28,7 @@
     background-color: #C4C4C4;
     padding: 1rem;
     letter-spacing: .3rem;
+    text-transform: uppercase;
 }
 
 .list__paragraph {
@@ -68,6 +70,7 @@
     color: #fff;
     font-size: 20px;
     margin: .8rem;
+    text-transform: uppercase;
 }
 
 .footer__icon {
